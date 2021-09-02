@@ -8,7 +8,7 @@ Watch the [demo video](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyG
   * Python semantics & syntax
 * [Breakout Game](https://github.com/PTLin84/stanCode_projects/tree/main/stanCode_projects/02_breakout_game)
   * Python game & animation design (OOP)
-* [Pedestrian Remove App](https://github.com/PTLin84/stanCode_projects/tree/main/stanCode_projects/03_stanCodoshop)
+* [Pedestrian Removal App](https://github.com/PTLin84/stanCode_projects/tree/main/stanCode_projects/03_stanCodoshop)
   * Image processing
 * [Name Popularity Searching System](https://github.com/PTLin84/stanCode_projects/tree/main/stanCode_projects/04_babygraphics)
   * Data structure, Web crawler & tkinter UI
