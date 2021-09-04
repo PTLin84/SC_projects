@@ -3,7 +3,8 @@ Hello!\
 This repository holds my Python programming projects done during the period of stanCode SC101 course.\
 \
 ## Project Source Code:
-* [Campy Drawing](https://github.com/PTLin84/stanCode_projects/tree/main/stanCode_projects/01_Campy_Drawing) ([Demo video](https://youtu.be/02pO0BtFI_o))
+* [Campy Drawing](https://github.com/PTLin84/stanCode_projects/tree/main/stanCode_projects/01_Campy_Drawing) 
+  * [Demo video](https://youtu.be/02pO0BtFI_o)
   * Python semantics & syntax
 * [Breakout Game](https://github.com/PTLin84/stanCode_projects/tree/main/stanCode_projects/02_breakout_game) ([Demo video](https://youtu.be/-qMCPR_gKYw))
   * Python game & animation design (OOP)
